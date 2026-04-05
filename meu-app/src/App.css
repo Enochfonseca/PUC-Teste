@@ -1,0 +1,41 @@
+.painel{
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 100px;
+  text-align: right;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.painel-buttons{
+  width: 200px;
+  height: 100px;
+  background-color: blue;
+}
+.button-ac {
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+    font-size: 26px;
+    text-align: center;
+    float: left;
+}
+
+.button-operacao {
+    width: 50px;
+    height: 50px;
+    background-color: orangered;
+    font-size: 26px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+
+.button-numero {
+    width: 50px;
+    height: 50px;
+    background-color: gray;
+    font-size: 26px;
+    text-align: center;
+    float: left;
+}
