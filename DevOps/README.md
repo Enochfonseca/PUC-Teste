@@ -1,1 +1,1 @@
-# Testando o API FastAPI
+Olá! Este é um repositório *eclusivo para teste*.
